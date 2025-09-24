@@ -47,10 +47,14 @@ body{
 
 p{
 <<<<<<< HEAD
+<<<<<<< HEAD
   text-align: start;
 =======
   text-align: left;
 >>>>>>> refs/remotes/origin/master
+=======
+  text-align: justify;
+>>>>>>> parent of 2dfddc8 (fix bib data; left align description)
   
 }
 
