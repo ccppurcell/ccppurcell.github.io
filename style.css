@@ -46,7 +46,11 @@ body{
 
 
 p{
+<<<<<<< HEAD
   text-align: start;
+=======
+  text-align: left;
+>>>>>>> refs/remotes/origin/master
   
 }
 
